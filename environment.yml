@@ -1,0 +1,12 @@
+name: /home/kaimibk/Documents/Tutorials/Clustering/env
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - plotly
+  - nbformat
+prefix: /home/kaimibk/Documents/Tutorials/Clustering/env
